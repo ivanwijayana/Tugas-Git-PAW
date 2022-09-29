@@ -5,7 +5,7 @@ https://youtu.be/9aFK9dLb4VM
 
 ### PREVIEW VIDIO
 ## Thumbnail
-![Thumbnail](IMG1.PNG "Thumbnail");
+![Thumbnail](IMG1.PNG "Thumbnail")
 
 ## Content
-![Content](IMG2.PNG "Content");
+![Content](IMG2.PNG "Content")
